@@ -1,0 +1,10 @@
+body{
+    
+
+}
+div{
+    height: 100vh;
+    color: white;
+    background-image:url(media/Background.jpg);
+    background-size: cover;
+}
