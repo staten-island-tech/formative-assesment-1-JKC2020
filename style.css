@@ -8,3 +8,18 @@ div{
     background-image:url(media/Background.jpg);
     background-size: cover;
 }
+img{
+    height: 20vh;
+    filter: drop-shadow(16px 16px 20px grey);
+}
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: capitalize;
+    font-size: 40;
+}
+li{
+    font-family: 'Indie Flower', cursive;
+}
+ul{
+    list-style: none;
+}
